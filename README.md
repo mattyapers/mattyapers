@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @mattyapers
-- 👀 I’m interested in ...
-  Data Analytics!
-- 🌱 I’m currently learning ...
-  Google Data Analytics Course understanding how to get into Data Science and the thinking behind it
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m Matthew Yap a penultimate student studying Economics in Singapore Management University (SMU)
+- 👀 I’m interested in ...  Data Analytics, Data Exploration, Data Interpretation
+- 🌱 I’m currently learning ...  How to use python in my own projects!
 <!---
 mattyapers/mattyapers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
