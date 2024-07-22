@@ -8,8 +8,8 @@ Hello! I'm **Matthew Yap**, an aspiring data analyst and data scientist with a b
 - **Data Visualization**: Tableau 📊
 
 ## Highlighted Projects
-- **Time Series Analysis of 2024 Presidential Elections**: Predicting election outcomes using Wikipedia pageviews. [View Project](link-to-repo)
-- **Banking Analysis Pre and Post 2008 Financial Crisis**: Analyzing the financial health and trends of banks before and after the crisis. [View Project](link-to-repo)
+- **Time Series Analysis of 2024 Presidential Elections**: Predicting election outcomes using Wikipedia pageviews. [View Project](https://github.com/mattyapers/Time-Series-Analysis)
+- **Banking Analysis Pre and Post 2008 Financial Crisis**: Analyzing the financial health and trends of banks before and after the crisis. [View Project](https://github.com/mattyapers/2008-Financial-Crisis)
 
 ## Professional Experience
 I've gained valuable experience at several leading firms, including:
